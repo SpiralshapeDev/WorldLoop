@@ -1,0 +1,34 @@
+Configs: {
+	ServerConfig: {
+		AllowReturn: {
+			Label: Enable Return Button
+			Tooltip: Toggles the return button when pressing ESC.
+		}
+
+		AllowRespawn: {
+			Tooltip: Allow players to set their spawn on loop worlds.
+			Label: Allow Beds
+		}
+
+		ForceDisableMapText: {
+			Tooltip: Forces all clients to not show chunk indicator when using map.
+			Label: Force Disable Map Text
+		}
+
+		DisplayName: Server Config
+	}
+
+	ClientConfig: {
+		DisableTip: {
+			Tooltip: Disables warning message when joining a world.
+			Label: Disable Tip
+		}
+
+		EnableMapText: {
+			Tooltip: Toggle chunk indicator when using map.
+			Label: Enable Map Text
+		}
+
+		DisplayName: Client Config
+	}
+}

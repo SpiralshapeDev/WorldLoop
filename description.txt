@@ -1,0 +1,5 @@
+This mod makes it so that when touching the edge of the world border, you enter another world which is the same as your current world but with a different seed!
+
+Warning!
+This mod is not made for long-term playthroughs and may break world files. Remember to keep backups.
+This was made because I thought the idea was interesting & will likely not be receiving future updates else than small changes & bugfixes.
