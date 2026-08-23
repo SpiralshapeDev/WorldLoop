@@ -1,4 +1,4 @@
 displayName = Looped Worlds
 author = SpiralDev
-version = 1.0
+version = 1.0.1
 modReferences = SubworldLibrary
