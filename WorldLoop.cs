@@ -18,8 +18,8 @@ public class WorldLoop : Mod
     {
         if (!ModContent.GetInstance<ClientConfig>().DisableTip)
         {
-            Main.NewText("<{LoopedWorlds}>: Warning! This mod is not made for long-term playthroughs and may break world files. Remember to keep backups.",Color.Yellow);
-            Main.NewText("<{LoopedWorlds}>: To disable this message, turn on \"Disable Tip\" in mod's client config settings.",Color.Yellow);
+            Main.NewText("<{ContinuedWorlds}>: Warning! This mod is not made for long-term playthroughs and may break world files. Remember to keep backups.",Color.Yellow);
+            Main.NewText("<{ContinuedWorlds}>: To disable this message, turn on \"Disable Tip\" in mod's client config settings.",Color.Yellow);
         }
     }
 }
